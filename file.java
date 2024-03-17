@@ -1,4 +1,5 @@
 a=1000
+
     public class Factorial {
 
     public static int factorial(int n) {
