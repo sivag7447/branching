@@ -15,3 +15,6 @@ public class Factorial {
     }
 }
 
+Factorial of 5 is 120
+
+
